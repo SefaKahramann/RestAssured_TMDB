@@ -1,16 +1,17 @@
 # REST API Testing Project - TMDB API
 
-**One Week Sprint**
-
-**URL:** [TMDB](https://www.themoviedb.org/)
-
  ### **This project is for educational purposes and is intended to help participants test their own skills.*
 
- ### The project was created using the API of the TMDB page. You can find the description of the functions and their usage at https://developers.themoviedb.org/3/getting-started/introduction.
+### **One Week Sprint**
 
- ### In order to use the project, you must be a member of the TMDB page and then the authorization procedures must be done. After getting the API key from the settings page, session_id should be obtained from https://developers.themoviedb.org/3/authentication/how-do-i-generate-a-session-id page.
+### **URL:** [TMDB](https://www.themoviedb.org/)
 
- ### API key, session_id and username must be written into the variables in the file in \src\main\java\com\tmdb\spec\RequestSpec.java.
+
+ ### -*The project was created using the API of the TMDB page. You can find the description of the functions and their usage at https://developers.themoviedb.org/3/getting-started/introduction.*
+
+ ### -*In order to use the project, you must be a member of the TMDB page and then the authorization procedures must be done. After getting the API key from the settings page, session_id should be obtained from https://developers.themoviedb.org/3/authentication/how-do-i-generate-a-session-id page.*
+
+ ### -*API key, session_id and username must be written into the variables in the file in \src\main\java\com\tmdb\spec\RequestSpec.java.*
 
 ## Function tests included in the project:
 
